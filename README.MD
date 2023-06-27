@@ -1,5 +1,20 @@
 # OTC SWAP PROTOCOL
 
+## About
+
+The project was submitted to ChainLink Hackaton 2023 and won Top Quality prize. See:
+```
+https://devpost.com/software/otcnexus
+```
+My contribution was:
+- smart contract fixes
+- smart contract tests using Foundry, Solidity
+- UI form development in React, chakra-ui
+- testing swap functionality on Polygon L2 testnet
+- documenting the project
+- brainstorming about features
+- writing deployment script for smart contract.
+
 ## Summary
 ### The problem your project addresses
 
